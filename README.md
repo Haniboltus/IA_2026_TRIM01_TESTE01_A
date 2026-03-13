@@ -15,17 +15,26 @@ Você deve preencher as funções vazias no arquivo da sua prova (`prova_a.py` o
 
 ---
 
-## 🚀 Como iniciar o teste no PyCharm
+## 🚀 Como iniciar o teste (Clonando o Repositório)
 
-Siga os passos abaixo para clonar este repositório diretamente no seu PyCharm:
+Copie a URL deste repositório aqui no GitHub (botão verde `<> Code` > Copiar URL) e siga as instruções para a sua IDE favorita:
 
+### Opção A: Usando o Visual Studio Code (VS Code)
+1. Abra o VS Code.
+2. Na barra lateral esquerda, clique no ícone de **Source Control** (Controle do Código Fonte) ou pressione `Ctrl + Shift + G`.
+3. Clique no botão **Clone Repository** (Clonar Repositório).
+4. Cole a URL do repositório que você copiou do GitHub na barra superior e pressione `Enter`.
+5. Escolha a pasta na sua máquina onde deseja salvar o projeto e clique em **Select as Repository Destination**.
+6. Uma notificação aparecerá no canto inferior direito. Clique em **Open** para abrir o projeto.
+7. Se aparecer um aviso de segurança, clique em **"Yes, I trust the authors"**.
+
+### Opção B: Usando o PyCharm
 1. Abra o PyCharm.
 2. Na tela inicial, clique em **"Get from VCS"** (ou vá no menu superior em `Git` > `Clone...`).
-3. Copie a URL deste repositório aqui no GitHub (botão verde `<> Code` > Copiar URL).
-4. Cole a URL no campo **"URL"** no PyCharm.
-5. Escolha a pasta na sua máquina onde deseja salvar o projeto no campo **"Directory"**.
-6. Clique no botão **"Clone"**.
-7. O PyCharm vai carregar o projeto. Se ele perguntar se você confia no projeto, clique em **"Trust Project"**.
+3. Cole a URL do repositório no campo **"URL"**.
+4. Escolha a pasta na sua máquina onde deseja salvar o projeto no campo **"Directory"**.
+5. Clique no botão **"Clone"**.
+6. O PyCharm vai carregar o projeto. Se ele perguntar se você confia no projeto, clique em **"Trust Project"**.
 
 ---
 
