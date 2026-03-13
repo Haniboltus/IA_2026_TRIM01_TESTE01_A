@@ -6,7 +6,7 @@ Instruções:
 - Preencha as funções abaixo implementando a lógica solicitada.
 - Você é responsável por testar o seu próprio código. Sinta-se à vontade para 
   criar chamadas de teste no final do arquivo para garantir que a lógica funciona.
-- Quando terminar, faça o commit e o push para o repositório.
+- Quando terminar, faça o commit e o push para o seu repositório.
 """
 
 # ==============================================================================
